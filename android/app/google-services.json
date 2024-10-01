@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422406695953",
+    "project_id": "notificationapp-cc64c",
+    "storage_bucket": "notificationapp-cc64c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422406695953:android:03ed7c5039dd94e6d295b0",
+        "android_client_info": {
+          "package_name": "com.example.notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLw6yn4t56zrmSRFQ0EjbwvZr7blki7TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
